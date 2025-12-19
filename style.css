@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.imgs{
+    border: 3px solid blue;
+    border-radius: 50%;
+    width: 50%;
+    height: 80%;
+}
+
+.img_para{
+    border: 3px solid blue;
+    min-height: 40vh;
+    max-height: 100vh;
+}
+
+.para{
+    font-weight: 900;
+    font-style: italic;
+    font-size: 25px;
+}
